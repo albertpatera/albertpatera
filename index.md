@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Albert Patera
 
-You can use the [editor on GitHub](https://github.com/albertpatera/albertpatera/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dobrý den, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+jmenuji se Albert Patera a na webové sféře se pohybuji již řadu let. Mám za sebou 3 - 5 let praxe jako PHP vývojář. Působil jsem například v mediálním domě Vltava Labe Media, kde jsem se podílel na správě a vývoji on-line tiskovin (iReceptář, Kafe.cz, Šíp a další)
 
-### Markdown
+Poté skončila jedna etapa a já jsem šel pracovat do mediálního domu MAFRA. Měl jsem nastarost kontejnerizaci projektu Intranet pro společnost Agrofert. Zde jsem působil také jako programátor. Vyvíjel jsem také projekt pro Rádio Impuls.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Poté jsem změnil zaměstnání. Opět na pozici PHP developera ve firmě ICS.
 
-```markdown
-Syntax highlighted code block
+V této firmě jsem se setkal s technologiemi jako je Kontlin, c#, VB (makra v Excelu)
 
-# Header 1
-## Header 2
-### Header 3
+Nyní bych se rád vrátil k webům. Mám pět let praxe, což si mislím, že není tak úplně k zahození
 
-- Bulleted
-- List
+Aktuálně jsem #openToWork všem nabídkám 🙂, co se webové sféry týče.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+Zjistil jsem, že práce na živnost je to, co chci dělat. Shodou okolností mi teď skončil projekt, 
 
-[Link](url) and ![Image](src)
-```
+tudíž jsem otevřen dalším pracovním nabídkám ✅
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Preferuji kontrakty na živnost (OSVČ)
 
-### Jekyll Themes
+Externě také pracuji pro firmu Pro - Plant s.r.o, kde pracuji na pozici webmastera a programátora. Spravuji zde e-shop, dělal jsem také migrace e-mailů a tvorvu propagačních materiálů. Práce probíhá externě.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/albertpatera/albertpatera/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+➕**Node JS app | ReatJS | Symfony | Nette | Bootstrap 5+ | MarkDown | GatsbyJS**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+‣
+
+[Untitled Database](Albert%20Patera%205c1915ddf14149a1a1dde476bb4d0f89/Untitled%20Database%20344eb051877240399bc3ab417cf31a53.csv)
+
+---
+
+- fyzická osoba, podnikatel, zapsána v živ. rejstříku, 19909925, nejsem plátce DPH.
+
+[Super strávený den](https://www.notion.so/Super-str-ven-den-6c2225600230433fb66198a13f0071fb?pvs=21)
