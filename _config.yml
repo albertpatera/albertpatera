@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Albert 
 description: You can do everything...
+plugins:
+  - jekyll-default-layout
