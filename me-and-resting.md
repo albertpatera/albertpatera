@@ -1,6 +1,6 @@
-layout: page
-title: "PAGE-TITLE"
-permalink: /test
+---
+ title: 4562
+---
 
 # Měl bych zvolnit….
 
